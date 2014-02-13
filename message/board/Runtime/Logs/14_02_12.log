@@ -1,0 +1,257 @@
+[ 2014-02-12T11:25:29+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.078888s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.079104s ]
+SQL: SHOW COLUMNS FROM `tb_board` [ RunTime:0.753744s ]
+SQL: SELECT * FROM `tb_board`  [ RunTime:0.161035s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.467742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.467925s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.027860s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.051621s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.144323s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017621s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.241920s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.053697s ]
+INFO: [ view_end ] --END-- [ RunTime:0.053874s ]
+
+[ 2014-02-12T11:26:04+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+
+[ 2014-02-12T11:26:14+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+
+[ 2014-02-12T11:26:35+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+
+[ 2014-02-12T11:29:33+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+
+[ 2014-02-12T11:30:47+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+
+[ 2014-02-12T11:32:31+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+
+[ 2014-02-12T11:32:54+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+
+[ 2014-02-12T11:42:51+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `tb_board` [ RunTime:0.002746s ]
+SQL: SELECT * FROM `tb_board`  [ RunTime:0.000298s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010312s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000574s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000603s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000645s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000775s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003032s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000748s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000905s ]
+
+[ 2014-02-12T11:43:46+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+SQL: SHOW COLUMNS FROM `tb_board` [ RunTime:0.002901s ]
+SQL: SELECT * FROM `tb_board`  [ RunTime:0.000262s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010644s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000598s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000607s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000434s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002819s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000832s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000992s ]
+
+[ 2014-02-12T11:44:19+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+SQL: SHOW COLUMNS FROM `tb_board` [ RunTime:0.003107s ]
+SQL: SELECT * FROM `tb_board`  [ RunTime:0.000454s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010968s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000509s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000652s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000367s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000745s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002703s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000693s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2014-02-12T13:31:15+08:00 ] 127.0.0.1 /message/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `tb_board` [ RunTime:0.002744s ]
+SQL: SELECT * FROM `tb_board`  [ RunTime:0.000289s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012072s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000752s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000639s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000530s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000777s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003085s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000772s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000909s ]
+
+[ 2014-02-12T13:46:25+08:00 ] 127.0.0.1 /message/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.030183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.030354s ]
+SQL: SHOW COLUMNS FROM `tb_board` [ RunTime:0.002831s ]
+SQL: SELECT * FROM `tb_board`  [ RunTime:0.000261s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.081527s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081675s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.009611s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.015724s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.012267s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.055939s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.017689s ]
+INFO: [ view_end ] --END-- [ RunTime:0.017831s ]
+
+[ 2014-02-12T15:29:00+08:00 ] 127.0.0.1 /message/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001128s ]
+SQL: SHOW COLUMNS FROM `tb_board` [ RunTime:0.002800s ]
+SQL: SELECT * FROM `tb_board`  [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011283s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000740s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000725s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000493s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000802s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003188s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002537s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002713s ]
+
+[ 2014-02-12T15:29:04+08:00 ] 127.0.0.1 /message/index.php/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.032594s ]
+INFO: [ route_check ] --END-- [ RunTime:0.032787s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001935s ]
+ERR: 无法加载模块:index
+
+[ 2014-02-12T15:29:11+08:00 ] 127.0.0.1 /message/index.php/Index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000949s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001133s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000945s ]
+SQL: SHOW COLUMNS FROM `tb_board` [ RunTime:0.002811s ]
+SQL: SELECT * FROM `tb_board`  [ RunTime:0.000308s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010895s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011071s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000630s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000718s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000782s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003066s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000792s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000950s ]
+
+[ 2014-02-12T15:29:33+08:00 ] 127.0.0.1 /message/index.php/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001028s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001229s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `tb_board` [ RunTime:0.002626s ]
+SQL: SELECT * FROM `tb_board`  [ RunTime:0.000266s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\message\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011283s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011456s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000636s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000673s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000494s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000785s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003017s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000788s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000947s ]
+

@@ -1,0 +1,344 @@
+[ 2014-02-11T11:17:35+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.030088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.052464s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.086158s ]
+SQL: SELECT * FROM `think_board`  [ RunTime:0.001366s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.074959s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075140s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.015931s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.015839s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.012143s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.017554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.061937s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.018106s ]
+INFO: [ view_end ] --END-- [ RunTime:0.018276s ]
+
+[ 2014-02-11T11:20:14+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001484s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.003326s ]
+SQL: SELECT * FROM `think_board`  [ RunTime:0.000264s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010259s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010430s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000798s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000625s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000430s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000732s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003018s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000725s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2014-02-11T11:20:42+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.002821s ]
+SQL: SELECT * FROM `think_board`  [ RunTime:0.000274s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 32 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010953s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000523s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000557s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000368s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000786s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002678s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000712s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000872s ]
+
+[ 2014-02-11T11:23:01+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.002798s ]
+SQL: SELECT * FROM `think_board`  [ RunTime:0.000279s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 34 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 34 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 34 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010406s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000566s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000608s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000424s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000772s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002800s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000722s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000876s ]
+
+[ 2014-02-11T11:23:24+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.002774s ]
+SQL: SELECT * FROM `think_board`  [ RunTime:0.000271s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009526s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000503s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000535s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000382s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000671s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002520s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000664s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000837s ]
+
+[ 2014-02-11T11:56:26+08:00 ] 127.0.0.1 /board/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002217s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.004890s ]
+SQL: SELECT * FROM `think_board`  [ RunTime:0.000278s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012447s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012649s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001693s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004105s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001712s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001044s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009070s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001309s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001480s ]
+
+[ 2014-02-11T11:56:34+08:00 ] 127.0.0.1 /board/index.php/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.041243s ]
+INFO: [ route_check ] --END-- [ RunTime:0.041461s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003459s ]
+ERR: 页面不存在！
+
+[ 2014-02-11T12:03:55+08:00 ] 127.0.0.1 /board/index.php/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001003s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001199s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001810s ]
+ERR: 页面不存在！
+
+[ 2014-02-11T12:04:39+08:00 ] 127.0.0.1 /board/index.php/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000779s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+
+[ 2014-02-11T12:05:47+08:00 ] 127.0.0.1 /board/index.php/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000790s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002054s ]
+
+[ 2014-02-11T12:06:01+08:00 ] 127.0.0.1 /board/index.php/Index/handle
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000952s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001136s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001005s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.002512s ]
+SQL: INSERT INTO `think_board` (`username`,`content`) VALUES ('1111','1111') [ RunTime:0.091954s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023362s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023557s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000916s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000637s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000433s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000789s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003217s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000741s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000904s ]
+
+[ 2014-02-11T12:06:02+08:00 ] 127.0.0.1 /board/index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001567s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001771s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.002649s ]
+SQL: SELECT * FROM `think_board`  [ RunTime:0.000311s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010730s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000610s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000551s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000367s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002807s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000677s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2014-02-11T12:06:34+08:00 ] 127.0.0.1 /board/index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000895s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001085s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.021780s ]
+SQL: SELECT * FROM `think_board`  [ RunTime:0.000325s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010960s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000495s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000547s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000362s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000665s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002501s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000821s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000984s ]
+
+[ 2014-02-11T16:22:01+08:00 ] 127.0.0.1 /board/index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001464s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001674s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001449s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.002303s ]
+ERR: 1146:Table 'board.think_board' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_board`
+SQL: SELECT * FROM `think_board`  [ RunTime:0.000250s ]
+ERR: 1146:Table 'board.think_board' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_board` 
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013505s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001172s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001188s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001006s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005125s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001243s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001402s ]
+
+[ 2014-02-11T16:22:02+08:00 ] 127.0.0.1 /board/index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001664s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001855s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001451s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.002259s ]
+ERR: 1146:Table 'board.think_board' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_board`
+SQL: SELECT * FROM `think_board`  [ RunTime:0.000214s ]
+ERR: 1146:Table 'board.think_board' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_board` 
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011865s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012047s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000946s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000971s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000790s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001091s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004239s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001099s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001259s ]
+
+[ 2014-02-11T16:22:03+08:00 ] 127.0.0.1 /board/index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001214s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001414s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001681s ]
+SQL: SHOW COLUMNS FROM `think_board` [ RunTime:0.002382s ]
+ERR: 1146:Table 'board.think_board' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_board`
+SQL: SELECT * FROM `think_board`  [ RunTime:0.000281s ]
+ERR: 1146:Table 'board.think_board' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_board` 
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013533s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013755s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000918s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000992s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000819s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001142s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004312s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001094s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001428s ]
+
+[ 2014-02-11T18:05:26+08:00 ] 127.0.0.1 /board/index.php/Index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001186s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001393s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000933s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `tb_board` [ RunTime:0.017932s ]
+SQL: SELECT * FROM `tb_board`  [ RunTime:0.000331s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+NOTIC: [8] A non well formed numeric value encountered C:\wamp\www\board\board\Runtime\Cache\c764dd97f773ddbacc492524431d4024.php 第 31 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011686s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000823s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001054s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000650s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000902s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003964s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000908s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001066s ]
+
